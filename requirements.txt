@@ -1,0 +1,8 @@
+altair==5.4.1
+matplotlib==3.9.2
+numpy<=2.1.3
+pandas==2.2.3
+plotly==5.24.1
+seaborn==0.13.2
+streamlit==1.37.1
+vega_datasets==0.9.0
